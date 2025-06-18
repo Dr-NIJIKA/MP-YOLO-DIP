@@ -58,10 +58,10 @@
 ##### 操作方式
 1. 上传所需要识别的甲骨文拓片
 2. 点击甲骨文识别即可
-![甲骨文识别界面](docs/images/OracleDetect.png)
-![手势控制关键点](docs/images/Handpoints.png)
+![甲骨文识别界面](does/images/OracleDetect.png)
+
 #### 手势控制
-![[Handpoints.png]]
+![手势控制关键点](does/images/Handpoints.png)
 
 ##### 基本操作准备
 1. **硬件要求**：
