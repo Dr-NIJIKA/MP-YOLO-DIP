@@ -136,7 +136,7 @@ python main_code/main.py
 ### 直接使用软件包 
 
 1. 项目提供打包好的软件安装包
-2. 下载发布的DIPsetup.exe安装包
+2. 在Release中下载发布的DIPsetup.exe安装包
 3. 双击运行安装程序，按照向导完成安装
 4. 在开始菜单或桌面找到"DIP"快捷方式，双击运行即可启动应用程序
 
