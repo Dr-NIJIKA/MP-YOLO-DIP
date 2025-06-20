@@ -178,8 +178,6 @@ main_code/
 
 models/
 └── detection-fp32.onnx 
-└── detection-fp16.onnx 
-
 
 docs/                       
 ├── images/                 
